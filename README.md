@@ -1,4 +1,4 @@
-_Update: We will not be continuing work on the open code of conduct. See [our followup post](http://todogroup.org/blog/followup-open-code-of-conduct/) for more information._
+ _Update: We will not be continuing work on the open code of conduct. See [our followup post](http://todogroup.org/blog/followup-open-code-of-conduct/) for more information._
 
 We recommend you adopt a code of conduct that fits the needs of your community. Here are a few communities and projects that established code of conducts and diversity statements:
 
